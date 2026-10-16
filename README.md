@@ -16,5 +16,5 @@ Instead of just looking at numbers in isolation, I approach every dataset knowin
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio / Email:** [Your Email or Portfolio Link]
+* **LinkedIn: ** https://www.linkedin.com/in/abhishek-das-sales
+* **Email:** abhishekdas93345121@gmail.com
